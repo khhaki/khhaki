@@ -5,7 +5,9 @@
 
 - 📫 How to reach me **a.ak.k65@mail.com**
 
-- ⚡ Fun fact **I am mechanical engineer, but something I can improve about myself is my software knowledge, which is why I currently take technology courses during the evenings and weekends**
+- ⚡ Fun fact **I am mechanical engineer,**<br /> 
+               **but something I can improve about myself is my software knowledge,**<br/>
+               **which is why I currently take technology courses during the evenings and weekends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
