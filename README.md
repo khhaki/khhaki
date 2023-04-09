@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI with python**
 
-- 📫 How to reach me **a.ak.k65@mail.com**
+- 📫 How to reach me **mr.abdelhak.kherfi@gmail.com**
 
 - ⚡ Fun fact **I am mechanical engineer,**<br /> 
                **but something I can improve about myself is my software knowledge,**<br/>
