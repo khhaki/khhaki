@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelhak Kherfi</h1>
-<h3 align="center">A flutter developer from Algeria</h3>
+<h3 align="center">A developer from Algeria</h3>
 
 - 🌱 I’m currently learning **AI with python**
 
